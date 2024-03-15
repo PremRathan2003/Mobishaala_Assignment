@@ -3,11 +3,11 @@
   background-image: url("https://res.cloudinary.com/dh9tpjqbw/image/upload/v1710439071/Screenshot_2024-03-14_232626_bvolzt.png");
   background-size: cover;
   color: #ffffff;
-min-height: 100vh;
-display: flex;
-flex-direction: column;
-justify-content: center;
-text-align: left;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
 }
 .heading{
   font-size: 48px;
@@ -58,7 +58,8 @@ text-align: left;
   padding: 10px;
 }
 .icon{
-align-self: center;}
+align-self: center;
+}
 .video-container{
   display: flex;
   flex-direction: column;
@@ -66,10 +67,23 @@ align-self: center;}
   align-items: center;
   width: 50vw;
   height: 50vh;
-
 }
 .buy-btn{
   margin: 10px;
+}
+.btn-container{
+  order: 1;
+}
+.video-container-small{
+  display: none;
+}
+
+.orders{
+  display: flex;
+  flex-direction: column;
+}
+.footer_small{
+  display: none;
 }
 
 @media screen and (max-width:576px){
@@ -90,17 +104,40 @@ align-self: center;}
     margin-right: 10px;
   }
   .para{
-    font-size: 16px;
-    margin-right: 0px;
-    padding: 10px;
+    font-size: 24px;
+    padding-top: 20px;
     text-align: left;
+    margin: 10px;
   }
   .video-container{
-    order: 1;
-    width: 90vw;
+    display: none;
+  }
+  .video-container-small{
+    display: block;
+    width: 95vw;
     height: 40vh;
   }
   .btn-container{
-    order: 2;
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .footer_small{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    background-color: red;
+    padding: 12px;
+  }
+  .links{
+    font-size: 19px;
+    margin: 10px;
+  }
+  .bold-content{
+    font-weight: bolder;
+  }
+  .get-btn{
+    font-size: 20px;
+    margin-bottom: 10px;
   }
 }
