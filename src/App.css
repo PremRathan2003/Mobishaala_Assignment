@@ -1,38 +1,106 @@
 .App {
   text-align: center;
+  background-image: url("https://res.cloudinary.com/dh9tpjqbw/image/upload/v1710439071/Screenshot_2024-03-14_232626_bvolzt.png");
+  background-size: cover;
+  color: #ffffff;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: left;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.heading{
+  font-size: 48px;
+  font-weight: 800;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.circle-list {
+  list-style-type: circle;
+  color: #ffffff;
+  font-weight: 500;
+  text-align: left;
+}
+.para{
+  font-size: 20px;
+  margin-right: 10px;
+  font-weight: 550;
+}
+.in-color{
+  color: yellow;
+}
+.get-btn{
+  color: #ffffff;
+  background-color: red;
+  border-radius: 12px;
+  padding: 10px;
+  border-width: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+.talk-btn{
+  background-color: green;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 12px;
+  padding-left: 15px;
+  cursor: pointer;
+  padding-right: 15px;
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+}
+.icon{
+align-self: center;}
+.video-container{
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  width: 50vw;
+  height: 50vh;
+
+}
+.buy-btn{
+  margin: 10px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (max-width:576px){
+  .App{
+    text-align: center;
   }
-  to {
-    transform: rotate(360deg);
+  .circle-list{
+    display: none;
+  }
+  .heading{
+    display: none;
+
+  }
+  .row{
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .para{
+    font-size: 16px;
+    margin-right: 0px;
+    padding: 10px;
+    text-align: left;
+  }
+  .video-container{
+    order: 1;
+    width: 90vw;
+    height: 40vh;
+  }
+  .btn-container{
+    order: 2;
   }
 }
