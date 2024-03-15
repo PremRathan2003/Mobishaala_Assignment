@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mobishaala-website/static/css/main.e36b5b79.css",
+    "main.js": "/mobishaala-website/static/js/main.bf1caa48.js",
+    "reactPlayerYouTube.js": "/mobishaala-website/static/js/reactPlayerYouTube.1a4d516d.chunk.js",
+    "reactPlayerSoundCloud.js": "/mobishaala-website/static/js/reactPlayerSoundCloud.c372fed0.chunk.js",
+    "reactPlayerVimeo.js": "/mobishaala-website/static/js/reactPlayerVimeo.0aaf7035.chunk.js",
+    "reactPlayerMux.js": "/mobishaala-website/static/js/reactPlayerMux.90955222.chunk.js",
+    "reactPlayerFacebook.js": "/mobishaala-website/static/js/reactPlayerFacebook.921d8931.chunk.js",
+    "reactPlayerStreamable.js": "/mobishaala-website/static/js/reactPlayerStreamable.18342c69.chunk.js",
+    "reactPlayerWistia.js": "/mobishaala-website/static/js/reactPlayerWistia.7ff54c41.chunk.js",
+    "reactPlayerTwitch.js": "/mobishaala-website/static/js/reactPlayerTwitch.15f6bd30.chunk.js",
+    "reactPlayerDailyMotion.js": "/mobishaala-website/static/js/reactPlayerDailyMotion.a74d0629.chunk.js",
+    "reactPlayerMixcloud.js": "/mobishaala-website/static/js/reactPlayerMixcloud.200a7ee7.chunk.js",
+    "reactPlayerVidyard.js": "/mobishaala-website/static/js/reactPlayerVidyard.c0ec61b1.chunk.js",
+    "reactPlayerKaltura.js": "/mobishaala-website/static/js/reactPlayerKaltura.5f5001d7.chunk.js",
+    "reactPlayerFilePlayer.js": "/mobishaala-website/static/js/reactPlayerFilePlayer.e2d85ade.chunk.js",
+    "reactPlayerPreview.js": "/mobishaala-website/static/js/reactPlayerPreview.4bcb9349.chunk.js",
+    "static/js/453.e669bd02.chunk.js": "/mobishaala-website/static/js/453.e669bd02.chunk.js",
+    "index.html": "/mobishaala-website/index.html",
+    "main.e36b5b79.css.map": "/mobishaala-website/static/css/main.e36b5b79.css.map",
+    "main.bf1caa48.js.map": "/mobishaala-website/static/js/main.bf1caa48.js.map",
+    "reactPlayerYouTube.1a4d516d.chunk.js.map": "/mobishaala-website/static/js/reactPlayerYouTube.1a4d516d.chunk.js.map",
+    "reactPlayerSoundCloud.c372fed0.chunk.js.map": "/mobishaala-website/static/js/reactPlayerSoundCloud.c372fed0.chunk.js.map",
+    "reactPlayerVimeo.0aaf7035.chunk.js.map": "/mobishaala-website/static/js/reactPlayerVimeo.0aaf7035.chunk.js.map",
+    "reactPlayerMux.90955222.chunk.js.map": "/mobishaala-website/static/js/reactPlayerMux.90955222.chunk.js.map",
+    "reactPlayerFacebook.921d8931.chunk.js.map": "/mobishaala-website/static/js/reactPlayerFacebook.921d8931.chunk.js.map",
+    "reactPlayerStreamable.18342c69.chunk.js.map": "/mobishaala-website/static/js/reactPlayerStreamable.18342c69.chunk.js.map",
+    "reactPlayerWistia.7ff54c41.chunk.js.map": "/mobishaala-website/static/js/reactPlayerWistia.7ff54c41.chunk.js.map",
+    "reactPlayerTwitch.15f6bd30.chunk.js.map": "/mobishaala-website/static/js/reactPlayerTwitch.15f6bd30.chunk.js.map",
+    "reactPlayerDailyMotion.a74d0629.chunk.js.map": "/mobishaala-website/static/js/reactPlayerDailyMotion.a74d0629.chunk.js.map",
+    "reactPlayerMixcloud.200a7ee7.chunk.js.map": "/mobishaala-website/static/js/reactPlayerMixcloud.200a7ee7.chunk.js.map",
+    "reactPlayerVidyard.c0ec61b1.chunk.js.map": "/mobishaala-website/static/js/reactPlayerVidyard.c0ec61b1.chunk.js.map",
+    "reactPlayerKaltura.5f5001d7.chunk.js.map": "/mobishaala-website/static/js/reactPlayerKaltura.5f5001d7.chunk.js.map",
+    "reactPlayerFilePlayer.e2d85ade.chunk.js.map": "/mobishaala-website/static/js/reactPlayerFilePlayer.e2d85ade.chunk.js.map",
+    "reactPlayerPreview.4bcb9349.chunk.js.map": "/mobishaala-website/static/js/reactPlayerPreview.4bcb9349.chunk.js.map",
+    "453.e669bd02.chunk.js.map": "/mobishaala-website/static/js/453.e669bd02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36b5b79.css",
+    "static/js/main.bf1caa48.js"
+  ]
+}
